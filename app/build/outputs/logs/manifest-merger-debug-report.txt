@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\83b60083b8685b3d8f40e5c10f807a62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\78b8f6078378253af4f3e139537d1569\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ebcb3e6498b488e27a32f2919f03f95e\AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:glide-transformations:3.3.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.3.0.aar\ae8209f17e0dbe6624868df47fb836f0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\49383e68745c26eb0dc15eae9a75a82c\AndroidManifest.xml:2:1-13:12
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\65972f9feb698a3035ba73f25b8e75c8\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9c307ef2907475a9b9e72b89c37693cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\be1f345ff2b661e3f114adc540c58323\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3d6a2497e1894a8ff147a2809e69ebdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ee61bf755b6b5e60c5c59955b185e2f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7063deeb35c1be587eb7e25d4fb8a35b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\93983f4c2d370def8c6d42fea289f1d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\343cdf8142050fe62deda4601e030e7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4c80cdfe0c2ea185043b6e0b682a6372\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f8609a347ca00ca8aaff5e88cc64d9cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5a7fe953dc52dcc4e1aadc4569691a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fb144410c04fb00d086b3fff84366299\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f56e079cbdb05ec2d796a86f09e10be3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6689de516e83a205e12e7e4ef3932fe6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f30e4deee949b3a06657d9781c3c2a31\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cf4c0a0fd3b5ef404ce0bdce3fc4f6b6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\95a0d7ffe1120d6087fd5a3b810b858b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\116fd54f8d5714da78c21f1c9c2b3b61\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ee55a9e07351e2447cd978bb16503456\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f58bc4a72e22c9dfc6f1c16b42f43799\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e8c0eedac94c496c7e96ade6b61897e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4e6c711e8a099161350dd567b57b836c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\aa9abe5f9e849a638a76f4877b2460f2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\918084613d60ccf6abad6395229570d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0e4049f7ebdc260e27f37c574356fc9c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\56daa9c329431083ad6d30a788ccd417\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3f7b054dd5dda047c184f378782031c2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\78b8f6078378253af4f3e139537d1569\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\78b8f6078378253af4f3e139537d1569\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\49383e68745c26eb0dc15eae9a75a82c\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\49383e68745c26eb0dc15eae9a75a82c\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f30e4deee949b3a06657d9781c3c2a31\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f30e4deee949b3a06657d9781c3c2a31\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cf4c0a0fd3b5ef404ce0bdce3fc4f6b6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cf4c0a0fd3b5ef404ce0bdce3fc4f6b6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\116fd54f8d5714da78c21f1c9c2b3b61\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\116fd54f8d5714da78c21f1c9c2b3b61\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f30e4deee949b3a06657d9781c3c2a31\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.ferlo.flickster.MovieActivity
+ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.ferlo.flickster.DetailActivity
+ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml:21:19-49
+uses-sdk
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\83b60083b8685b3d8f40e5c10f807a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\83b60083b8685b3d8f40e5c10f807a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\78b8f6078378253af4f3e139537d1569\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\78b8f6078378253af4f3e139537d1569\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ebcb3e6498b488e27a32f2919f03f95e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ebcb3e6498b488e27a32f2919f03f95e\AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:glide-transformations:3.3.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.3.0.aar\ae8209f17e0dbe6624868df47fb836f0\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:glide-transformations:3.3.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.3.0.aar\ae8209f17e0dbe6624868df47fb836f0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\49383e68745c26eb0dc15eae9a75a82c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\49383e68745c26eb0dc15eae9a75a82c\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\65972f9feb698a3035ba73f25b8e75c8\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\65972f9feb698a3035ba73f25b8e75c8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9c307ef2907475a9b9e72b89c37693cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9c307ef2907475a9b9e72b89c37693cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\be1f345ff2b661e3f114adc540c58323\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\be1f345ff2b661e3f114adc540c58323\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3d6a2497e1894a8ff147a2809e69ebdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3d6a2497e1894a8ff147a2809e69ebdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ee61bf755b6b5e60c5c59955b185e2f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ee61bf755b6b5e60c5c59955b185e2f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7063deeb35c1be587eb7e25d4fb8a35b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7063deeb35c1be587eb7e25d4fb8a35b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\93983f4c2d370def8c6d42fea289f1d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\93983f4c2d370def8c6d42fea289f1d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\343cdf8142050fe62deda4601e030e7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\343cdf8142050fe62deda4601e030e7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4c80cdfe0c2ea185043b6e0b682a6372\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4c80cdfe0c2ea185043b6e0b682a6372\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f8609a347ca00ca8aaff5e88cc64d9cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f8609a347ca00ca8aaff5e88cc64d9cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5a7fe953dc52dcc4e1aadc4569691a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5a7fe953dc52dcc4e1aadc4569691a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fb144410c04fb00d086b3fff84366299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fb144410c04fb00d086b3fff84366299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f56e079cbdb05ec2d796a86f09e10be3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f56e079cbdb05ec2d796a86f09e10be3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6689de516e83a205e12e7e4ef3932fe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6689de516e83a205e12e7e4ef3932fe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f30e4deee949b3a06657d9781c3c2a31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f30e4deee949b3a06657d9781c3c2a31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cf4c0a0fd3b5ef404ce0bdce3fc4f6b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cf4c0a0fd3b5ef404ce0bdce3fc4f6b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\95a0d7ffe1120d6087fd5a3b810b858b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\95a0d7ffe1120d6087fd5a3b810b858b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\116fd54f8d5714da78c21f1c9c2b3b61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\116fd54f8d5714da78c21f1c9c2b3b61\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ee55a9e07351e2447cd978bb16503456\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ee55a9e07351e2447cd978bb16503456\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f58bc4a72e22c9dfc6f1c16b42f43799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f58bc4a72e22c9dfc6f1c16b42f43799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e8c0eedac94c496c7e96ade6b61897e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e8c0eedac94c496c7e96ade6b61897e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4e6c711e8a099161350dd567b57b836c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4e6c711e8a099161350dd567b57b836c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\aa9abe5f9e849a638a76f4877b2460f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\aa9abe5f9e849a638a76f4877b2460f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\918084613d60ccf6abad6395229570d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\918084613d60ccf6abad6395229570d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0e4049f7ebdc260e27f37c574356fc9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0e4049f7ebdc260e27f37c574356fc9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\56daa9c329431083ad6d30a788ccd417\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\56daa9c329431083ad6d30a788ccd417\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3f7b054dd5dda047c184f378782031c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ferlo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3f7b054dd5dda047c184f378782031c2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ferlo\AndriodDev\Flickster - Copy\app\src\main\AndroidManifest.xml

@@ -20,7 +20,7 @@
 ### App Walkthough GIF
 
 
-<img src="https://github.com/OluOwolabi/Flick2/blob/master/walkthrough.gif" width=250><br>
+<img src="https://i.imgur.com/c2n6Hns.gif" width=250><br>
 
 ### Notes
 
